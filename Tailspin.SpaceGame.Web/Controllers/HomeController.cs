@@ -29,7 +29,7 @@ namespace TailSpin.SpaceGame.Web.Controllers
             int page = 1, 
             int pageSize = 10, 
             string mode = "",
-            string region = ""
+            string region = "test"
             )
         {
             // Create the view model with initial values we already know.
